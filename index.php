@@ -1,19 +1,11 @@
 <html>
     <head>
-        <title>Hello World</title>
+        <title>itf lab 63070154</title>
     </head>
     <body>
-        <h1>My First Heading</h1>
-        <p>My First Paragraph</p>
+        <p>Wanatchporn Silaruam (Ria)</p>
         <img src="cat.jpg">
         <br>
-        <a href="http://www.it.kmitl.ac.th">This is a Link</a>
-
-        <h2>The unordered list</h2>
-        <ul>
-            <li>Google</li>
-            <li>Yahoo</li>
-            <li>Amazon</li>
-        </ul>
+        <a href="https://eg44235.wixsite.com/artportfolio">my artworks</a>
     </body>
 </html>
